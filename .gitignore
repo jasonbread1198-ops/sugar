@@ -3,6 +3,8 @@
 .claude/scheduled_tasks.json
 .claude/settings.local.json
 node_modules/
+package.json
+package-lock.json
 18ec6fa8f0ec66e43dfb9f2abf4af7ea.jpg
 价格.jpg
 MindVideo_20260505172404_643.png
